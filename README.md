@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Guerinik Abderrahmane</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Frontend developer</h3>
 <img  src="https://media2.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" alt="Coding" width="400" align="right"/>
 
 
